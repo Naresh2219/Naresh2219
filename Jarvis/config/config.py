@@ -1,3 +1,3 @@
-email = "<your_email>"
-email_password = "<your_email_password>"
+email = "<cn818280@gmail.com>"
+email_password = "<naresh2218@>"
 wolframalpha_id = "<your_wolframalpha_id>"
