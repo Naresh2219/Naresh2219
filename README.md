@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/naresh"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/naresh"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -27,7 +27,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://naresh.com">I'm Naresh Challa</a></b>
+                <b><a target="_blank" href="https://naresh.com"><B>Naresh Challa</B></a></b>
         </samp>
 </h3>
 
