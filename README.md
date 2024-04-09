@@ -82,9 +82,7 @@ check my portfolio:https://portfolio-s-three.vercel.app/
 <br/>
 
 ## Use To Code
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='java' src='https://img.shields.io/badge/Java-100000?style=flat-square&logo=java&logoColor=white&labelColor=black&color=DD6060'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='java' src='https://img.shields.io/badge/Java-100000?style=flat&logo=java&logoColor=white&labelColor=black&color=DD6060'/></a>
-![Java](https://img.shields.io/badge/java-F0DB4F?style=for-the-badge&labelColor=blue&logo=java&logoColour=F0DB4F)
+![Java](https://img.shields.io/badge/java-F0DB5F?style=for-the-badge&labelColor=blue&logo=java&logoColour=F0DB4F)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
