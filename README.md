@@ -68,11 +68,11 @@ check my portfolio:https://portfolio-s-three.vercel.app/
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding.gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: cn818280@gmailcom<br/><br/>
+ 💙 &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: <a href="cn818280@gmailcom" type="mail">cn818280@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/naresh2219/naresh/issues)
 
 </p>
@@ -81,31 +81,36 @@ check my portfolio:https://portfolio-s-three.vercel.app/
 <br/>
 <br/>
 
-## Use To Code
-![Java](https://img.shields.io/badge/Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)
-![Java](https://img.shields.io/badge/Javascript-F0DB5E?style=for-the-badge&labelColor=blue&logo=javascript&logoColour=F0DB5E)
+## Use To Code & Tools
+![Java](https://img.shields.io/badge/J_a_v_a-007396?style=for-the-badge&labelColor=black&logo=j_a_v_a&logoColour=007396)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Angular](https://img.shields.io/badge/Angularjs-F0DB4F?style=for-the-badge&labelColor=black&logo=Angular&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sql](https://img.shields.io/badge/Sql-F0DB4F?style=for-the-badge&labelColor=black&logo=Sql&logoColor=F0DB4F)
+![MySql](https://img.shields.io/badge/MySql-F0DB4F?style=for-the-badge&labelColor=black&logo=MySql&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&labelColor=black&logo=Hibernate&logoColor=59666C)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&labelColor=black&logo=Spring&logoColor=6DB33F)
+![springBoot](https://img.shields.io/badge/SpringBott-6DB33F?style=for-the-badge&labelColor=black&logo=SpringBoot&logoColor=6DB33F)
+![VisualStudioCode](https://img.shields.io/badge/Visualstudio-0078d7?style=for-the-badge&logo=Visualstudio&logoColor=white)
+![TomCat](https://img.shields.io/badge/ApacheTomcat's-FF5722?style=for-the-badge&labelColor=black&logo=AppacheTomCat&logoColor=FF5722)
+![Kalilinux](https://img.shields.io/badge/KaliLinux-1A6BA1?style=for-the-badge&labelColor=black&logo=kaliLinux&logoColor=red)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=naresh&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/naresh/itasks)
+[![customer-application](https://vercel.com/naresh-challas-projects/customer-application/BGtC5sMsHy78ZQf8GKFDnFJRqDoj/api/pin/?username=naresh2219&repo=customer-application&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/naresh2219/customer-application)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=naresh&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/naresh/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=naresh&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/naresh/web-projects)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=naresh&repo=naresh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/naresh/naresh)
