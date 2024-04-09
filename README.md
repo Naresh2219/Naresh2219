@@ -65,4 +65,21 @@ cd frontend
 npm install
 
 # Run the frontend
-npm start
+npm start---
+# How to run the application
+
+- Step 1: Do this
+- Step 2: Do that
+- Step 3: Execute this command
+
+# Accessing Different Features
+
+- Feature 1: Describe how to access Feature 1
+- Feature 2: Describe how to access Feature 2
+- Feature 3: Describe how to access Feature 3
+
+Now the Usage section starts with a new header `# Usage` followed by the usage instructions.
+
+
+
+
