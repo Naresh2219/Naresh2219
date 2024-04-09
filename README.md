@@ -110,7 +110,7 @@ check my portfolio:https://portfolio-s-three.vercel.app/
 <br/>
 
 ## Top Open Source -
-[![customer-application](https://vercel.com/naresh-challas-projects/customer-application//api/pin/?username=naresh2219&repo=customer-application&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Naresh2219/customer-application)
+[![Angular-Customer](https://Angular-Customer.vercel.app/api/pin/?username=Naresh2219&repo=Angular-Customer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Naresh2219/Angular-Customer)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=naresh&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/naresh/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=naresh&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/naresh/web-projects)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=naresh&repo=naresh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/naresh/naresh)
