@@ -139,4 +139,4 @@ check my portfolio:https://portfolio-s-three.vercel.app/
 </a>
 
 
-![Naresh Challa Graph](https://github-readme-activity-graph.vercel.app/graph?username=naresh2219&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Naresh Challa Graph](https://github-readme-activity-graph.vercel.app/graph?username=naresh2219&custom_title=naresh%2219's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
