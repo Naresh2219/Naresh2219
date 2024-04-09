@@ -1,29 +1,68 @@
 check my portfolio:https://portfolio-s-three.vercel.app/
-- 👋 Hi, I’m @Naresh2219
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Naresh2219/Naresh2219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Project Title
 
 Short description or overview of the project.
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+## Technologies Used
 
-Provide instructions on how to install and setup the project. Include any dependencies that need to be installed and how to install them.
+List the technologies/frameworks/languages used in your project.
+
+- Java
+- Spring Boot
+- React.js
+- MySQL
+- etc.
+
+## Features
+
+Outline the key features of your project.
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Getting Started
+
+Explain how to set up the project locally for development.
+
+### Prerequisites
+
+List any software or tools that need to be installed before setting up the project.
+
+- JDK 11 or higher
+- Node.js
+- MySQL
+
+### Installation
+
+Provide step-by-step instructions on how to install and set up the project.
 
 ```bash
-# Example installation command
+# Clone the repository
+git clone https://github.com/yourusername/yourproject.git
+
+# Change directory
+cd yourproject
+
+# Build and run the backend (Spring Boot)
+./mvnw spring-boot:run
+
+# Change directory to the frontend (React.js)
+cd frontend
+
+# Install dependencies
 npm install
+
+# Run the frontend
+npm start
