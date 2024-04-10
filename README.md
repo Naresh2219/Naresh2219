@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Naresh2219"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Naresh2219"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;Back%20End%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -27,7 +27,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://naresh.com"><B>Naresh Challa</B></a></b>
+                <b><a target="_blank" href="https://naresh2219.com"><B>Naresh Challa</B></a></b>
         </samp>
 </h3>
 
@@ -73,7 +73,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  💙 &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: <a href="cn818280@gmailcom" type="mail">cn818280@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Naresh2219/naresh/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/Naresh2219/naresh/issues)<br/><br/>
 👨‍🏫  &emsp;https://portfolio-s-three.vercel.app/
 
 </p>
@@ -111,7 +111,7 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
+![Angular-Customer](https://socialify.git.ci/Naresh2219/Angular-Customer/image?description=1&descriptionEditable=Customer-Support%20application%20is%20use%20to%20create%20our%20own%20ticket.&font=Jost&forks=1&issues=1&language=1&name=1&naresh2219=1&pulls=1&stargazers=1&theme=Auto&width=5&height=5)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
