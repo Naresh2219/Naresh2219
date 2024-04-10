@@ -112,9 +112,9 @@
 
 ## Top Open Source -
 ![Angular-Customer](https://socialify.git.ci/Naresh2219/Angular-Customer/image?description=1&descriptionEditable=Customer-Support%20application%20is%20use%20to%20create%20our%20own%20ticket.&font=Jost&forks=1&issues=1&language=1&name=1&naresh2219=1&pulls=1&stargazers=1&theme=Auto&width=5&height=5)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+![portfolio-s](https://socialify.git.ci/Naresh2219/portfolio-s/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=white)
+![Bachelor-Frontend-anfd-Backend](https://socialify.git.ci/Naresh2219/Bachelor-Frontend-anfd-Backend/image?description=1&descriptionEditable=Easy%20to%20split%20and%20calculate%20roomate%27s&font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Dark&logoColor=blue)
+
 
 <p align="left">
   <a href="https://github.com/Naresh2219?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
