@@ -112,8 +112,8 @@
 
 ## Top Open Source -
 ![Angular-Customer](https://socialify.git.ci/Naresh2219/Angular-Customer/image?description=1&descriptionEditable=Customer-Support%20application%20is%20use%20to%20create%20our%20own%20ticket.&font=Jost&forks=1&issues=1&language=1&name=1&naresh2219=1&pulls=1&stargazers=1&theme=Dark&width=5&height=5)
-![portfolio-s](https://socialify.git.ci/Naresh2219/portfolio-s/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=white)
-![Bachelor-Frontend-anfd-Backend](https://socialify.git.ci/Naresh2219/Bachelor-Frontend-anfd-Backend/image?description=1&descriptionEditable=Easy%20to%20split%20and%20calculate%20roomate%27s&font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Dark&logoColor=blue)
+![portfolio-s](https://socialify.git.ci/Naresh2219/portfolio-s/image?description=1&descriptionEditable=Portfolio%27s&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Light)
+![Bachelor-Frontend-anfd-Backend](https://socialify.git.ci/Naresh2219/Bachelor-Frontend-anfd-Backend/image?description=1&descriptionEditable=Easy%20to%20split%20and%20calculate%20roomate%27s&font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Dark&height="192px"&width="49.5%")
 
 
 <p align="left">
