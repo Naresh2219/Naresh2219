@@ -43,13 +43,13 @@
 </p>
 
 <p align="center">
- <a href="https://nareshchalla.com" target="blank">
+ <a href="https://naresh2219" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="naresh" />
  </a>
  <a href="(https://www.linkedin.com/in/naresh-challa-716777289)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="naresh"/>
  </a>
- <a href="https://dev.to/naresh" target="_blank">
+ <a href="https://dev.to/naresh2219" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="naresh" />
  </a>
  <a href="https://twitter.com/nareshchalla" target="_blank">
