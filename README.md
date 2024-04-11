@@ -22,7 +22,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/018ec426-5973-409a-977c-5dd94c86bce9.svg)](https://wakatime.com/@018ec426-5973-409a-977c-5dd94c86bce9)
+[![wakatime](https://wakatime.com/badge/user?naresh2219/018ec426-5973-409a-977c-5dd94c86bce9.svg)](https://wakatime.com/@018ec426-5973-409a-977c-5dd94c86bce9)
 
 <!-- Intro  -->
 <h3 align="center">
