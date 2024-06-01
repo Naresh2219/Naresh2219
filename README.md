@@ -25,6 +25,7 @@
 [![wakatime](https://wakatime.com/badge/user/018ec426-5973-409a-977c-5dd94c86bce9.svg)](https://wakatime.com/@018ec426-5973-409a-977c-5dd94c86bce9)
 
 <!-- Intro  -->
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://naresh2219.com"><B>Naresh Challa</B></a></b>
@@ -132,7 +133,7 @@
 <br>
 
 ## Top Open Source -
-![Angular-Customer](https://socialify.git.ci/Naresh2219/Angular-Customer/image?description=1&descriptionEditable=Customer-Support%20application%20is%20use%20to%20create%20our%20own%20ticket.&font=Jost&forks=1&issues=1&language=1&name=1&naresh2219=1&pulls=1&stargazers=1&theme=Dark&width=5&height=5)
+![Angular-Customer](https://socialify.git.ci/Naresh2219/Angular-Customer/image?description=1&descriptionEditable=Customer-Support%20application%20is%20use%20to%20create%20our%20own%20ticket.&font=Jost&forks=1&issues=1&language=1&name=1&naresh2219=1&pulls=1&stargazers=1&theme=Dark&width=2&height=2)
 ![portfolio-s](https://socialify.git.ci/Naresh2219/portfolio-s/image?img4.png&description=1&descriptionEditable=Portfolio%27s&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Light)
 ![Bachelor-Frontend-anfd-Backend](https://socialify.git.ci/Naresh2219/Bachelor-Frontend-anfd-Backend/image?description=1&descriptionEditable=Easy%20to%20split%20and%20calculate%20roomate%27s&font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Dark&height="192px"&width="49.5%")
 
