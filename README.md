@@ -130,9 +130,9 @@
 
 <br>
 
-<h2 align="center">Top Open Source Projects</h2>
+<!--## <h2 align="center">Top Open Source Projects</h2>
 
-<!-- Projects Section -->
+<-- Projects Section
 <p align="center">
   <a href="https://github.com/Naresh2219/Angular-Customer" target="_blank">
     <img src="https://socialify.git.ci/Naresh2219/Angular-Customer/image?description=1&descriptionEditable=Customer-Support%20application%20is%20use%20to%20create%20our%20own%20ticket.&font=Jost&forks=1&issues=1&language=1&name=1&naresh2219=1&pulls=1&stargazers=1&theme=Dark&width=200&height=0.5" alt="Angular Customer" />
@@ -171,7 +171,7 @@
 <a> 
     <a href="https://github.com/Naresh2219"><img alt="Naresh2219 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Naresh2219&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Naresh2219"><img alt="Naresh2219 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Naresh2219&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+  <br/> -->
 </a>
 
 
